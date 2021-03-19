@@ -1,2 +1,2 @@
 # SiteBlog
-Exercício desenvolvido durante o curso Infnet Training - Desenvolvimento Front-End
+Exercício desenvolvido durante as aulas sobre HTML e CSS no curso Infnet Training - Desenvolvimento Front-End
